@@ -1,0 +1,10 @@
+[package]
+name = "digg"
+version = "1.0.0"
+authors = ["Aaron Doe <xer0aar0n@gmail.com>"]
+edition = "2024"
+
+[dependencies]
+wry = "0.39"
+tao = "0.30"
+image = "0.24"
